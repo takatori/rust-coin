@@ -1,0 +1,7 @@
+rust:
+  image: rust
+  volumes:
+    - ./:/code
+  entrypoint: /bin/sh
+  stdin_open: true
+  tty: true  

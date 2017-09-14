@@ -1,0 +1,8 @@
+[package]
+name = "rust-coin"
+version = "0.1.0"
+authors = ["takatori <takatorix@gmail.com>"]
+
+[dependencies]
+sha2 = "0.6.0"
+time = "0.1.38"
