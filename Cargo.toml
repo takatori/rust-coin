@@ -6,3 +6,9 @@ authors = ["takatori <takatorix@gmail.com>"]
 [dependencies]
 sha2 = "0.6.0"
 time = "0.1.38"
+futures = "0.1.14"
+hyper = "0.11.2"
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+digest = "0.6.2"
